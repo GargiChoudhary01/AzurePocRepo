@@ -1,0 +1,7 @@
+Create a data factory.
+Create a self-hosted integration runtime.
+Create SQL Server and Azure Storage linked services.
+Create SQL Server and Azure Blob datasets.
+Create a pipeline with a copy activity to move the data.
+Start a pipeline run.
+Monitor the pipeline run.
